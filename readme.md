@@ -21,7 +21,9 @@
 ## 📊 Github Stats
 
   <br/>
-    <a href="https://github.com/Cynxbb/github-readme-stats"><img alt="Cynx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Cynxbb&show_icons=true&count_private=true&theme=theme=tokyonight" /></a>
+    <a href="https://github.com/Cynxbb/github-readme-stats"><img alt="Cynx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Cynxbb&show_icons=true&count_private=true&theme=radical" /></a>
 
   <br/>
+
+
 
