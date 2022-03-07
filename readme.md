@@ -1,6 +1,5 @@
 
 ![](https://discord.c99.nl/widget/theme-5/906811074274271252.png)
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
