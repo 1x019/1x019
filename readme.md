@@ -1,4 +1,5 @@
 ![](https://dcbadge.vercel.app/api/shield/906811074274271252)
+![](https://discord.c99.nl/widget/theme-4/906811074274271252.png)
 
 ## 🚀 Languages and Tools:
 
