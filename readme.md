@@ -1,3 +1,5 @@
+![](https://dcbadge.vercel.app/api/shield/906811074274271252)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
