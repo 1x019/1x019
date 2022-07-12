@@ -24,7 +24,5 @@
     <a href="https://github.com/1x019"><img alt="1x019 Graph"
     src="https://activity-graph.herokuapp.com/graph?username=1x019&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   <br/>
-   <div>
-        ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   </div>
+
 
