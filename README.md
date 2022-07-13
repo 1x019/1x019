@@ -23,6 +23,7 @@
     <a href="https://github.com/1x019/github-readme-stats"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1x019&layout=compact&langs_count=7&theme=tokyonight" /></a>
     <a href="https://github.com/1x019"><img alt="1x019 Graph"
     src="https://activity-graph.herokuapp.com/graph?username=1x019&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=haxvzje&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
   <br/>
 
 
