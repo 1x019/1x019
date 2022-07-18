@@ -1,4 +1,4 @@
-
+## Discord:
 ![](https://discord.c99.nl/widget/theme-4/906811074274271252.png)
 
 ## Current Learning Languages:
